@@ -1,4 +1,16 @@
-Mapper;0.2.2.0
+Mapper;Aga.Controls.dll
+Mapper;config.xml
+Mapper;Definitions
+Mapper;EnhancedMap.exe
+Mapper;EnhancedMap.exe.config
+Mapper;EnhancedUpdater.exe
+Mapper;Icon
+Mapper;Ionic.Zip.dll
+Mapper;Maps
+Mapper;maps.xml
+Mapper;MapWindow.lua
+Mapper;System.ValueTuple.dll
+Mapper;uo.dll
 Definitions;BD
 Definitions;DUNGEONS
 Definitions;FactionsCambAnd

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<data>
+	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="True" showhiddenicon="True" showdeathicon="True" abbreviatenames="False" panicsounds="True" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-65408" namefont="Century Gothic" namesize="14" namestyle="0" />
+	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="3732" mapY="0" mapW="1138" mapH="982" chatX="2585" chatY="-1002" chatW="390" chatH="280" zoomIndex="4" chatfontsize="10" />
+	<network username="Syn-member" password="nope" remembercredentials="True" ip="159.65.161.182" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" />
+	<labels>
+		<label name="BD" enabled="False" />
+		<label name="DUNGEONS" enabled="False" />
+		<label name="FactionsCambAnd" enabled="False" />
+		<label name="FactionsCambPrev" enabled="False" />
+		<label name="FactionsFlag" enabled="False" />
+		<label name="FactionsPrevAnd" enabled="False" />
+		<label name="FactionsTerAnd" enabled="False" />
+		<label name="FactionsTerPrev" enabled="False" />
+		<label name="HEALER" enabled="True" />
+		<label name="KRAKEN DOCKMASTERS" enabled="False" />
+		<label name="OCEAN MAIN BOSS" enabled="True" />
+		<label name="POI" enabled="False" />
+		<label name="PUBLIC DOCKMASTERS" enabled="True" />
+		<label name="RED GATES" enabled="False" />
+		<label name="SHRINES" enabled="False" />
+		<label name="STAIRS" enabled="False" />
+		<label name="SYN DOCKMASTERS" enabled="True" />
+		<label name="WITCHERS" enabled="False" />
+		<label name="YELLOW GATES" enabled="False" />
+	</labels>
+	<diagnostic autoscroll="True" />
+	<highlightes />
+</data>
