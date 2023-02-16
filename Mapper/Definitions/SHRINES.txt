@@ -1,0 +1,9 @@
++	Compassion Shrine	1138	2974	0	true
++	Honesty Shrine	2943	618	0	true
++	Honor Shrine	1340	1222	0	true
++	Humility Shrine	1275	2275	0	true
++	Justice Shrine	1895	829	0	true
++	Sacrifice Shrine	2454	3291	0	true
++	Spirituality Shrine	2283	962	0	true
++	Valor Shrine	1162	1514	0	true
++	Chaos Shrine	3856	1401	0	true

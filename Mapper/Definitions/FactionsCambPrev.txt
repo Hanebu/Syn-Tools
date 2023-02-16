@@ -1,0 +1,3 @@
++	#16 Forsaken Keep Waypost	1964	1894	0	true
++	#17 Brigand Headquarters Waypost	1799	2182	0	true
++	#18 Destroyed Villa Waypost	1621	2723	0	true
