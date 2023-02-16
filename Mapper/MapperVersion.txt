@@ -64,3 +64,4 @@ Icon;star
 Icon;SYN DOCKMASTERS
 Icon;WITCHERS
 Icon;YELLOW GATES
+Maps;map0
