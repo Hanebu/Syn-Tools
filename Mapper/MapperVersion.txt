@@ -1,0 +1,61 @@
+Mapper;Aga.Controls.dll
+Mapper;config.xml
+Mapper;Definitions
+Mapper;EnhancedMap.exe
+Mapper;Icon
+Mapper;Maps
+Mapper;maps.xml
+Definitions;BD
+Definitions;DUNGEONS
+Definitions;FactionsCambAnd
+Definitions;FactionsCambPrev
+Definitions;FactionsFlag
+Definitions;FactionsPrevAnd
+Definitions;FactionsTerAnd
+Definitions;FactionsTerPrev
+Definitions;GUARDLINES
+Definitions;HEALER
+Definitions;HOUSES
+Definitions;KRAKEN DOCKMASTERS
+Definitions;OCEAN MAIN BOSS
+Definitions;POI
+Definitions;PUBLIC DOCKMASTERS
+Definitions;RED GATES
+Definitions;SHRINES
+Definitions;STAIRS
+Definitions;SYN DOCKMASTERS
+Definitions;WITCHERS
+Definitions;YELLOW GATES
+Icon;BD
+Icon;COM DOCKMASTERS
+Icon;DUNGEONS
+Icon;FACTIONS
+Icon;FactionsCambAnd
+Icon;FactionsCambPrev
+Icon;FactionsFlag
+Icon;FactionsPrevAnd
+Icon;FactionsTerAnd
+Icon;FactionsTerCamb
+Icon;FactionsTerPrev
+Icon;FBL DOCKMASTERS
+Icon;GG DOCKMASTERS
+Icon;GLC DOCKMASTERS
+Icon;HEALER
+Icon;KRAKEN DOCKMASTERS
+Icon;LANDMARKX
+Icon;MIB
+Icon;OCEAN MAIN BOSS
+Icon;OCEAN MINI BOSS
+Icon;POI
+Icon;POI3
+Icon;PUBLIC DOCKMASTERS
+Icon;RED GATES
+Icon;SHIP SPAWNERS
+Icon;SHRINES
+Icon;skull2
+Icon;STAIRS
+Icon;star
+Icon;SYN DOCKMASTERS
+Icon;WITCHERS
+Icon;YELLOW GATES
+Maps;map0
