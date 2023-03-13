@@ -3,6 +3,7 @@
 +	Bron	2059	1410	0	true
 +	Chioss	714	825	0	true
 +	Chioss Houseboat	3457	1157	0	true
++	Chioss Windmill	3294	3533	0	true
 +	Deadly	3188	152	0	true
 +	Deadly	3188	4097	0	true
 +	Degore	2817	594	0	true
