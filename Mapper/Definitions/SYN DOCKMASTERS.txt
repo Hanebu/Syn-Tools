@@ -11,7 +11,7 @@
 +	Degore	2817	594	0	true
 +	High	4268	872	0	true
 +	High	35	872	0	true
-+ Inverno 3721  1666  0 true
++	Inverno	3721	1666	0	true
 +	Ozmond	1648	2477	0	true
 +	Pantrax	2377	3115	0	true
 +	Pantrax Owen	2190	1114	0	true
