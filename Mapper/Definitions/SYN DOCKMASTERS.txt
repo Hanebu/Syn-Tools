@@ -9,8 +9,11 @@
 +	Deadly	3188	152	0	true
 +	Deadly	3188	4097	0	true
 +	Degore	2817	594	0	true
++	Henriqu	3533	1485	0	true
 +	High	4268	872	0	true
 +	High	35	872	0	true
++	Gaza	2331	983	0	true
++	Imbroken	4326	725	0	true
 +	Inverno	3721	1666	0	true
 +	Ozmond	1648	2477	0	true
 +	Pantrax	2377	3115	0	true
