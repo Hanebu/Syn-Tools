@@ -3,18 +3,25 @@
 +	Arrow	4097	1288	0	true
 +	Balla	3573	1423	0	true
 +	Bron	2059	1410	0	true
++	Bruno	4141	1266	0	true
 +	Chioss	714	825	0	true
 +	Chioss Houseboat	3457	1157	0	true
 +	Chioss Windmill	3293	3538	0	true
 +	Deadly	3188	152	0	true
 +	Deadly	3188	4097	0	true
 +	Degore	2817	594	0	true
++	Doomy	4204	785	0	true
++	Gaza	2331	983	0	true
++	Gheist	3640	1283	0	true
++	Graffix	3784	76	0	true
++	Harald	824	1012	0	true
 +	Henriqu	3533	1485	0	true
 +	High	4268	872	0	true
 +	High	35	872	0	true
-+	Gaza	2331	983	0	true
 +	Imbroken	4326	725	0	true
++	Inco	1132	1271	0	true
 +	Inverno	3721	1666	0	true
++	Malex	4058	338	0	true
 +	Ozmond	1648	2477	0	true
 +	Pantrax	2377	3115	0	true
 +	Pantrax Owen	2190	1114	0	true
@@ -23,6 +30,8 @@
 +	Seth	1152	717	0	true
 +	Stalin	1267	470	0	true
 +	Sushi	3625	1393	0	true
++	Tamaki	4219	1257	0	true
++	Unsept	1337	472	0	true
 +	VonD Houseboat	3537	96	0	true
 +	VonD Houseboat	3537	4097	0	true
 +	Wesnile	778	1841	0	true
