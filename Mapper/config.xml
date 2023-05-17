@@ -1,29 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <data>
-	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="True" showhiddenicon="True" showdeathicon="True" abbreviatenames="False" panicsounds="False" piratepanicsounds="True" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-65408" namefont="Arial" namesize="14" namestyle="0" />
-	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="2604" mapY="53" mapW="1200" mapH="1124" chatX="234" chatY="234" chatW="390" chatH="280" zoomIndex="4" chatfontsize="10" />
+	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="False" showhiddenicon="True" showdeathicon="True" abbreviatenames="False" panicsounds="False" piratepanicsounds="True" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-65408" namefont="Century Gothic" namesize="14" namestyle="0" />
+	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="2557" mapY="89" mapW="1163" mapH="914" chatX="26" chatY="26" chatW="390" chatH="280" zoomIndex="1" chatfontsize="10" />
 	<network servername="SYN" username="Syn-member" password="" remembercredentials="True" ip="159.65.161.182" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" servername2="FS!" username2="FS-ally" password2="" remembercredentials2="True" ip2="18.191.183.226" port2="8811" rememberserver2="True" />
 	<labels>
-		<label name="Dockmasters FS" enabled="True" />
-		<label name="Dockmasters Public" enabled="True" />
-		<label name="Dockmasters Syn" enabled="True" />
-		<label name="Dockmasters Warg" enabled="True" />
-		<label name="Dungeons" enabled="True" />
+		<label name="BD" enabled="False" />
+		<label name="DUNGEONS" enabled="False" />
 		<label name="FactionsCambAnd" enabled="False" />
 		<label name="FactionsCambPrev" enabled="False" />
 		<label name="FactionsFlag" enabled="False" />
 		<label name="FactionsPrevAnd" enabled="False" />
 		<label name="FactionsTerAnd" enabled="False" />
 		<label name="FactionsTerPrev" enabled="False" />
-		<label name="Gates Red" enabled="True" />
-		<label name="Gates Yellow" enabled="True" />
-		<label name="Healers" enabled="True" />
-		<label name="Ocean Boss" enabled="True" />
+		<label name="HEALER" enabled="True" />
+		<label name="KRAKEN DOCKMASTERS" enabled="False" />
+		<label name="OCEAN MAIN BOSS" enabled="True" />
 		<label name="POI" enabled="False" />
-		<label name="Runesystem BlackDragon" enabled="False" />
-		<label name="Runesystem Witcher" enabled="False" />
-		<label name="Shrines" enabled="False" />
-		<label name="Stairs" enabled="True" />
+		<label name="PUBLIC DOCKMASTERS" enabled="True" />
+		<label name="RED GATES" enabled="False" />
+		<label name="SHRINES" enabled="False" />
+		<label name="STAIRS" enabled="False" />
+		<label name="SYN DOCKMASTERS" enabled="True" />
+		<label name="WITCHERS" enabled="False" />
+		<label name="YELLOW GATES" enabled="False" />
 	</labels>
 	<diagnostic autoscroll="True" />
 	<highlightes />
