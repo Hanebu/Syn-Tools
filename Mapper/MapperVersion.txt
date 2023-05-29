@@ -26,7 +26,6 @@ Definitions;STAIRS
 Definitions;SYN DOCKMASTERS
 Definitions;WITCHERS
 Definitions;YELLOW GATES
-Definitions;WARG DOCKMASTERS
 Icon;BD
 Icon;COM DOCKMASTERS
 Icon;DUNGEONS
