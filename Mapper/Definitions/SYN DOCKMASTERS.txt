@@ -22,6 +22,7 @@
 +	Inco	1132	1271	0	true
 +	Inverno	3721	1666	0	true
 +	Malex	4058	338	0	true
++	Marlatt	4313	494	0	true
 +	Ozmond	1648	2477	0	true
 +	Pantrax	2377	3115	0	true
 +	Pantrax Owen	2190	1114	0	true
