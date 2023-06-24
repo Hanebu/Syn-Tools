@@ -1,9 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <maps>
-	<Felucca index="0" fileindex="0" width="7168" height="4096" />
-	<Trammel index="1" fileindex="1" width="7168" height="4096" />
-	<Ilshenar index="2" fileindex="2" width="2304" height="1600" />
-	<Malas index="3" fileindex="3" width="2560" height="2048" />
-	<Tokuno index="4" fileindex="4" width="1448" height="1448" />
-	<TerMur index="5" fileindex="5" width="1280" height="4096" />
+	<Outlands index="0" fileindex="0" width="10000" height="6144" />
 </maps>
