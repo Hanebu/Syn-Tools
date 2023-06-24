@@ -29,7 +29,7 @@
 +	Penta	1851	560	0	false
 +	Pwnstarr	774	1696	0	false
 +	Sdub	3636	1333	0	false
-+	Seppia	645	909	0	false
++	Seppia	645	990	0	false
 +	Seth	1152	717	0	false
 +	Stalin	1267	470	0	false
 +	Sushi	3625	1393	0	false
