@@ -1,43 +1,44 @@
-+	Guild	781	469	0	true
-+	Anakin	743	3084	0	true
-+	Arrow	4097	1288	0	true
-+	Balla	3573	1423	0	true
-+	Bruno	4141	1266	0	true
-+	Chioss	714	825	0	true
-+	Chioss Houseboat	3457	1157	0	true
-+	Chioss Windmill	3293	3538	0	true
-+	Deadly	3188	152	0	true
-+	Deadly	3188	4097	0	true
-+	Degore	2817	594	0	true
-+	Doomy	4204	785	0	true
-+	Gaza	2331	983	0	true
-+	Gheist	3640	1283	0	true
-+	Gotti	2124	3276	0	true
-+	Graffix	3784	76	0	true
-+	Harald	824	1012	0	true
-+	Henriqu	3533	1485	0	true
-+	High	4268	872	0	true
-+	High	35	872	0	true
-+	Imbroken	4326	725	0	true
-+	Inco	1132	1271	0	true
-+	Inverno	3721	1666	0	true
-+	Malex	4058	338	0	true
++	Guild	781	469	0	false
++	Anakin	743	3084	0	false
++	Arrow	4097	1288	0	false
++	Balla	3573	1423	0	false
++	Bruno	4141	1266	0	false
++	Chioss	714	825	0	false
++	Chioss Houseboat	3457	1157	0	false
++	Chioss Windmill	3293	3538	0	false
++	Deadly	3188	152	0	false
++	Deadly	3188	6144	0	false
++	Degore	2817	594	0	false
++	Doomy	4204	785	0	false
++	Gaza	2331	983	0	false
++	Gaza Ghetto	909	2243	0	false
++	Gheist	3640	1283	0	false
++	Gotti	2124	3276	0	false
++	Graffix	3784	76	0	false
++	Harald	824	1012	0	false
++	Henriqu	3533	1485	0	false
++	High	4268	872	0	false
++	High	35	872	0	false
++	Inco	1132	1271	0	false
++	Inverno	3721	1666	0	false
++	Malex	4058	338	0	false
 +	Marlatt	4313	494	0	true
-+	Ozmond	1648	2477	0	true
-+	Pantrax	2377	3115	0	true
-+	Pantrax Owen	2190	1114	0	true
-+	Penta	1851	560	0	true
-+	Pwnstarr	774	1696	0	true
-+	Sdub	3636	1333	0	true
-+	Seth	1152	717	0	true
-+	Stalin	1267	470	0	true
-+	Sushi	3625	1393	0	true
-+	Tamaki	4219	1257	0	true
-+	Unsept	1337	472	0	true
-+	VonD Houseboat	3537	96	0	true
-+	VonD Houseboat	3537	4097	0	true
-+	Wesnile	778	1841	0	true
-+	Wesnile Honeyhole	1329	673	0	true
-+	Wooded	2264	2384	0	true
-+	xDos	3960	47	0	true
-+	xDos	3960	4097	0	true
++	Ozmond	1648	2477	0	false
++	Pantrax	2377	3115	0	false
++	Pantrax Owen	2190	1114	0	false
++	Penta	1851	560	0	false
++	Pwnstarr	774	1696	0	false
++	Sdub	3636	1333	0	false
++	Seppia	645	909	0	false
++	Seth	1152	717	0	false
++	Stalin	1267	470	0	false
++	Sushi	3625	1393	0	false
++	Tamaki	4219	1257	0	false
++	Unsept	1337	472	0	false
++	VonD Houseboat	3537	96	0	false
++	VonD Houseboat	3537	6144	0	false
++	Wesnile	778	1841	0	false
++	Wesnile Honeyhole	1329	673	0	false
++	Wooded	2264	2384	0	false
++	xDos	3960	47	0	false
++	xDos	3960	6144	0	false
