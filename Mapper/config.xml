@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <data>
-	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="False" showhiddenicon="True" showdeathicon="True" abbreviatenames="False" panicsounds="False" piratepanicsounds="True" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-65408" namefont="Century Gothic" namesize="14" namestyle="0" />
-	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="0" mapY="0" mapW="1163" mapH="914" chatX="26" chatY="26" chatW="390" chatH="280" zoomIndex="1" chatfontsize="10" />
-	<network servername="SYN" username="Syn-member" password="" remembercredentials="True" ip="143.244.222.250" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" servername2="Server 2" username2="" password2="" remembercredentials2="True" ip2="" port2="" rememberserver2="True" />
+	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="False" showhiddenicon="True" showdeathicon="False" abbreviatenames="False" panicsounds="True" piratepanicsounds="False" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-1" namefont="Century Gothic" namesize="14" namestyle="0" />
+	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="0" mapY="0" mapW="1408" mapH="996" chatX="78" chatY="78" chatW="390" chatH="280" zoomIndex="0" chatfontsize="10" />
+	<network servername="SYN" username="SynMember" password="" remembercredentials="True" ip="143.244.222.250" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" servername2="Ally" username2="" password2="" remembercredentials2="True" ip2="" port2="8811" rememberserver2="True" />
 	<labels>
 		<label name="BD" enabled="False" />
 		<label name="DUNGEONS" enabled="False" />
@@ -12,15 +12,17 @@
 		<label name="FactionsPrevAnd" enabled="False" />
 		<label name="FactionsTerAnd" enabled="False" />
 		<label name="FactionsTerPrev" enabled="False" />
-		<label name="HEALER" enabled="True" />
+		<label name="FS DOCKMASTERS" enabled="True" />
+		<label name="HEALER" enabled="False" />
 		<label name="KRAKEN DOCKMASTERS" enabled="False" />
 		<label name="OCEAN MAIN BOSS" enabled="True" />
 		<label name="POI" enabled="False" />
 		<label name="PUBLIC DOCKMASTERS" enabled="True" />
 		<label name="RED GATES" enabled="False" />
-		<label name="SHRINES" enabled="False" />
+		<label name="SHRINES" enabled="True" />
 		<label name="STAIRS" enabled="False" />
 		<label name="SYN DOCKMASTERS" enabled="True" />
+		<label name="WARG DOCKMASTERS" enabled="True" />
 		<label name="WITCHERS" enabled="False" />
 		<label name="YELLOW GATES" enabled="False" />
 	</labels>
