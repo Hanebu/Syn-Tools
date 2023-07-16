@@ -6,6 +6,14 @@ Mapper;Icon
 Mapper;Maps
 Mapper;maps.xml
 Definitions;BD
+Definitions;Dungeon_chests_level1
+Definitions;Dungeon_chests_level2
+Definitions;Dungeon_chests_level3
+Definitions;Dungeon_chests_level4
+Definitions;Dungeon_chests_level5
+Definitions;Dungeon_chests_level6
+Definitions;Dungeon_chests_level7
+Definitions;Dungeon_chests_level8
 Definitions;DUNGEONS
 Definitions;FactionsCambAnd
 Definitions;FactionsCambPrev
@@ -27,6 +35,14 @@ Definitions;SYN DOCKMASTERS
 Definitions;WITCHERS
 Definitions;YELLOW GATES
 Icon;BD
+Icon;Dungeon_chests_level1
+Icon;Dungeon_chests_level2
+Icon;Dungeon_chests_level3
+Icon;Dungeon_chests_level4
+Icon;Dungeon_chests_level5
+Icon;Dungeon_chests_level6
+Icon;Dungeon_chests_level7
+Icon;Dungeon_chests_level8
 Icon;COM DOCKMASTERS
 Icon;DUNGEONS
 Icon;FACTIONS
