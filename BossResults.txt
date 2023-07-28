@@ -1,0 +1,50 @@
+say '[bossresults'
+waitforgump 1892293155
+pause 1000
+
+if not ingump 'Summoned'
+    if ingump 'Aegis High Priestess' 1892293155
+        overhead '### Aegis Main ###' 
+    elseif ingump 'Sanguineous' 1892293155
+        overhead '### Aegis Mini ###'
+    elseif ingump 'Behemoth Basilisk' 1892293155
+        overhead '### Cavernam Main ###'
+    elseif ingump 'Great Abyssal Hornbeast' 1892293155
+        overhead '### Cavernam Mini ###'
+    elseif ingump 'Lord Bile' 1892293155
+        overhead '### Darkmire Main ###'
+    elseif ingump 'The Terrorwood' 1892293155
+        overhead '### Darkmire Mini ###'
+    elseif ingump 'Infernus' 1892293155
+        overhead '### Inferno Main ###'
+    elseif ingump 'Heart of the Mountain' 1892293155
+        overhead '### Inferno Mini ###'
+    elseif ingump 'Gatekeeper' 1892293155
+        overhead '### Mausoleum Main ###'
+    elseif ingump 'Cistern Gorgon' 1892293155
+        overhead '### Mausoleum Mini ###'
+    elseif ingump 'Emperor Dragon' 1892293155
+        overhead '### Nusero Main ###'
+    elseif ingump 'Pit Dragon' 1892293155
+        overhead '### Nusero Mini ###'
+    elseif ingump 'The Forgotten King' 1892293155
+        overhead '### Oassuary Main ###'
+    elseif ingump 'Speaker for the Dead' 1892293155
+        overhead '### Oassuary Mini ###'
+    elseif ingump 'Terathan Goliath' 1892293155
+        overhead '### Petram Main ###'
+    elseif ingump 'Lodestone' 1892293155
+        overhead '### Petram Mini ###'
+    elseif ingump 'Great Sunken Serpent' 1892293155
+        overhead '### Pulma Main ###'
+    elseif ingump 'Ancient Drowned Dragon' 1892293155
+        overhead '### Pulma Mini ###'
+    elseif ingump 'Gargoyle Primogen' 1892293155
+        overhead '### Shadowspire Main ###'
+    elseif ingump 'Gargoyle Archon' 1892293155
+        overhead '### Shadowspire Mini ###'
+    endif
+endif
+
+pause 5000
+loop
