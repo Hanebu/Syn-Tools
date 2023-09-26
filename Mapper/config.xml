@@ -1,30 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <data>
 	<general showhits="True" showstamina="True" showmana="True" centerplayer="False" trackdeathpoint="False" showhiddenicon="True" showdeathicon="False" abbreviatenames="False" panicsounds="True" piratepanicsounds="False" alertsounds="True" smartnamesposition="False" showplacesicons="True" hidelessimportantplaces="False" showtownsnames="False" showserverbounds="True" showguardlines="False" showcoordinates="True" showhouses="False" showmobilesaroundyou="True" dontrenderusersindifferentfacets="True" nameposition="0" namecolor="-1" namefont="Century Gothic" namesize="14" namestyle="0" />
-	<application clienttype="0" showscrollbarls="False" openchatatstart="False" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="0" mapY="0" mapW="1408" mapH="996" chatX="78" chatY="78" chatW="390" chatH="280" zoomIndex="0" chatfontsize="10" />
-	<network servername="SYN" username="SynMember" password="" remembercredentials="True" ip="143.244.222.250" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" servername2="Ally" username2="" password2="" remembercredentials2="True" ip2="" port2="8811" rememberserver2="True" />
+	<application clienttype="0" showscrollbarls="False" openchatatstart="True" showincomingmsg="True" soundsincomingmsg="True" followuowindowstate="False" loadmapsondemand="False" showfps="False" fps="30" mapkind="1" clientpath="C:\Program Files (x86)\Ultima Online Outlands" mapX="0" mapY="0" mapW="800" mapH="600" chatX="0" chatY="600" chatW="800" chatH="300" zoomIndex="0" chatfontsize="10" />
+	<network servername="SYN" username="" password="" remembercredentials="True" ip="143.244.222.250" port="8887" rememberserver="True" autologin="True" tryreconnect="True" tryreconnecttime="30" servername2="" username2="" password2="" remembercredentials2="True" ip2="" port2="8811" rememberserver2="True" />
 	<labels>
-		<label name="BD" enabled="False" />
-		<label name="DUNGEONS" enabled="False" />
+		<label name="Dockmasters_Public" enabled="True" />
+		<label name="Dockmasters_Syn" enabled="True" />
+		<label name="Dungeons" enabled="True" />
+		<label name="Dungeon_chests_level1" enabled="False" />
+		<label name="Dungeon_chests_level2" enabled="False" />
+		<label name="Dungeon_chests_level3" enabled="False" />
+		<label name="Dungeon_chests_level4" enabled="False" />
+		<label name="Dungeon_chests_level5" enabled="False" />
+		<label name="Dungeon_chests_level6" enabled="False" />
+		<label name="Dungeon_chests_level7" enabled="False" />
+		<label name="Dungeon_chests_level8" enabled="False" />
 		<label name="FactionsCambAnd" enabled="False" />
 		<label name="FactionsCambPrev" enabled="False" />
 		<label name="FactionsFlag" enabled="False" />
 		<label name="FactionsPrevAnd" enabled="False" />
 		<label name="FactionsTerAnd" enabled="False" />
 		<label name="FactionsTerPrev" enabled="False" />
-		<label name="FS DOCKMASTERS" enabled="True" />
-		<label name="HEALER" enabled="False" />
-		<label name="KRAKEN DOCKMASTERS" enabled="False" />
-		<label name="OCEAN MAIN BOSS" enabled="True" />
+		<label name="Gates_Red" enabled="True" />
+		<label name="Gates_Yellow" enabled="True" />
+		<label name="Healers" enabled="True" />
+		<label name="Ocean_Boss_Main" enabled="True" />
 		<label name="POI" enabled="False" />
-		<label name="PUBLIC DOCKMASTERS" enabled="True" />
-		<label name="RED GATES" enabled="False" />
-		<label name="SHRINES" enabled="True" />
-		<label name="STAIRS" enabled="False" />
-		<label name="SYN DOCKMASTERS" enabled="True" />
-		<label name="WARG DOCKMASTERS" enabled="True" />
-		<label name="WITCHERS" enabled="False" />
-		<label name="YELLOW GATES" enabled="False" />
+		<label name="Runesys_BlackDragon" enabled="False" />
+		<label name="Runesys_Witcher" enabled="False" />
+		<label name="Shrines" enabled="True" />
+		<label name="Stairs" enabled="False" />
 	</labels>
 	<diagnostic autoscroll="True" />
 	<highlightes />
