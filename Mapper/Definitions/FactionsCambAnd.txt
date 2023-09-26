@@ -1,3 +1,0 @@
-+	#7 Ruined House Waypost	1944	996	0	true
-+	#8 Abandoned Docks Waypost	1972	1359	0	true
-+	#9 Melloweed Farm Waypost	2147	2213	0	true

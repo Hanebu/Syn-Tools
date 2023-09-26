@@ -1,3 +1,0 @@
-+	#1 Frozen Ruins Waypost	1583	678	0	true
-+	#2 Hunters Blind Waypost	1270	978	0	true
-+	#3 Zebra Falls Waypost	999	1352	0	true

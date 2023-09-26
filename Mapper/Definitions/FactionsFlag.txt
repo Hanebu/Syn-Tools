@@ -1,4 +1,0 @@
-+	[T] Terran Castle Flag	630	1466	0	true
-+	[P] Prevalia Castle Flag	1764	1393	0	true
-+	[C] Cambria Castle Flag	1716	2794	0	true
-+	[A] Andaria Castle Flag	2061	644	0	true

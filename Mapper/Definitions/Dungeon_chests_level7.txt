@@ -1,9 +1,0 @@
-+	Chest7	5886	2208	0	false
-+	Chest7	5749	2766	0	false
-+	Chest7	5710	1588	0	false
-+	Chest7	5255	550	0	false
-+	Chest7	5977	928	0	false
-+	Chest7	5456	2106	0	false
-+	Chest7	5443	1179	0	false
-+	Chest7	5883	404	0	false
-+	Chest7	5725	1217	0	false
