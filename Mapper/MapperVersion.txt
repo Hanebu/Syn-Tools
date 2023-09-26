@@ -5,7 +5,9 @@ Mapper;EnhancedMap.exe
 Mapper;Icon
 Mapper;Maps
 Mapper;maps.xml
-Definitions;BD
+Definitions;Dockmasters_Public
+Definitions;Dockmasters_Syn
+Definitions;Dungeons
 Definitions;Dungeon_chests_level1
 Definitions;Dungeon_chests_level2
 Definitions;Dungeon_chests_level3
@@ -14,27 +16,26 @@ Definitions;Dungeon_chests_level5
 Definitions;Dungeon_chests_level6
 Definitions;Dungeon_chests_level7
 Definitions;Dungeon_chests_level8
-Definitions;DUNGEONS
 Definitions;FactionsCambAnd
 Definitions;FactionsCambPrev
 Definitions;FactionsFlag
 Definitions;FactionsPrevAnd
 Definitions;FactionsTerAnd
 Definitions;FactionsTerPrev
+Definitions;Gates_Red
+Definitions;Gates_Yellow
 Definitions;GUARDLINES
-Definitions;HEALER
+Definitions;Healers
 Definitions;HOUSES
-Definitions;KRAKEN DOCKMASTERS
-Definitions;OCEAN MAIN BOSS
+Definitions;Ocean_Boss_Main
 Definitions;POI
-Definitions;PUBLIC DOCKMASTERS
-Definitions;RED GATES
-Definitions;SHRINES
-Definitions;STAIRS
-Definitions;SYN DOCKMASTERS
-Definitions;WITCHERS
-Definitions;YELLOW GATES
-Icon;BD
+Definitions;Runesys_BlackDragon
+Definitions;Runesys_Witcher
+Definitions;Shrines
+Definitions;Stairs
+Icon;Dockmasters_Public
+Icon;Dockmasters_Syn
+Icon;Dungeons
 Icon;Dungeon_chests_level1
 Icon;Dungeon_chests_level2
 Icon;Dungeon_chests_level3
@@ -43,9 +44,6 @@ Icon;Dungeon_chests_level5
 Icon;Dungeon_chests_level6
 Icon;Dungeon_chests_level7
 Icon;Dungeon_chests_level8
-Icon;COM DOCKMASTERS
-Icon;DUNGEONS
-Icon;FACTIONS
 Icon;FactionsCambAnd
 Icon;FactionsCambPrev
 Icon;FactionsFlag
@@ -53,26 +51,18 @@ Icon;FactionsPrevAnd
 Icon;FactionsTerAnd
 Icon;FactionsTerCamb
 Icon;FactionsTerPrev
-Icon;FBL DOCKMASTERS
-Icon;GG DOCKMASTERS
-Icon;GLC DOCKMASTERS
-Icon;HEALER
-Icon;KRAKEN DOCKMASTERS
-Icon;LANDMARKX
+Icon;files.txt
+Icon;Gates_Red
+Icon;Gates_Yellow
+Icon;Healers
 Icon;MIB
-Icon;OCEAN MAIN BOSS
-Icon;OCEAN MINI BOSS
+Icon;Ocean_Boss_Main
+Icon;Ocean_Boss_Mini
 Icon;POI
-Icon;POI3
-Icon;PUBLIC DOCKMASTERS
-Icon;RED GATES
-Icon;SHIP SPAWNERS
-Icon;SHRINES
+Icon;Runesys_BlackDragon
+Icon;Runesys_Witcher
+Icon;Shrines
 Icon;skull2
-Icon;STAIRS
+Icon;Stairs
 Icon;star
-Icon;SYN DOCKMASTERS
-Icon;WITCHERS
-Icon;YELLOW GATES
-Icon;WARG DOCKMASTERS
 Maps;map0
