@@ -1,0 +1,180 @@
++	To Level 2	5789	1327	0	false
++	To Surface	5927	1317	0	false
++	To Level 1	5869	1228	0	false
++	To Level 2	5992	1290	0	false
++	To Level 2	5991	1327	0	false
++	To Boss Room	5181	618	0	false
++	To Boss Room	5220	618	0	false
++	To Mini-Boss Room	5243	614	0	false
++	To Level 2	5200	737	0	false
++	To Level 2	5180	730	0	false
++	To Level 3	5243	586	0	false
++	To Level 3	5198	840	0	false
++	To Level 3	5169	846	0	false
++	Secret Passage	5374	746	0	false
++	To Level 1	5418	729	0	false
++	To Level 1	5421	749	0	false
++	Secret Passage	5479	657	0	false
++	To Level 3	5499	632	0	false
++	To Level 3	5520	637	0	false
++	Secret Passage	5380	650	0	false
++	To Level 2	5418	609	0	false
++	To Level 2	5555	699	0	false
++	To Surface	5608	733	0	false
++	To Level 2	5628	669	0	false
++	To Level 2	5629	646	0	false
++	To Surface	5578	852	0	false
++	To Surface	5621	840	0	false
++	To Surface	5556	900	0	false
++	To Surface	5515	851	0	false
++	To Surface	5568	819	0	false
++	To Surface	5241	348	0	false
++	Secret Passage	5283	355	0	false
++	Secret Passage	5472	316	0	false
++	To Surface	5547	286	0	false
++	To Level 1	5775	223	0	false
++	To Level 3	5782	355	0	false
++	To Level 3	5766	373	0	false
++	To level 3	5875	244	0	false
++	To Level 1	5884	339	0	false
++	Secret Passage	5918	87	0	false
++	Secret Passage	5919	105	0	false
++	To Level 2	5967	159	0	false
++	To Level 1.5	5881	94	0	false
++	To Boss Room	5958	224	0	false
++	To Boss Room	6035	207	0	false
++	Secret Passage	6033	268	0	false
++	To Level 2	5977	338	0	false
++	Secret Passage	6023	337	0	false
++	Secret Passage	6033	302	0	false
++	Secret Passage	6039	350	0	false
++	To Mini-Boss Room	6023	374	0	false
++	To Level 3	5905	425	0	false
++	To Level 2	5897	605	0	false
++	To Surface	6108	609	0	false
++	To Level 3	6089	905	0	false
++	To Level 3	5979	765	0	false
++	To Boss Room	5987	930	0	false
++	To Boss Room	6008	901	0	false
++	To Mini-Boss Room	5941	985	0	false
++	To Level 3.5	5916	1098	0	false
++	To Level 3	5874	1094	0	false
++	To Level 2	6007	1151	0	false
++	To Mini-Boss Room	5717	1298	0	false
++	To Level 2	5752	1364	0	false
++	To Level 2.5	5715	1271	0	false
++	To Level 3	5868	921	0	false
++	To Level 3	5827	977	0	false
++	To Boss Room	5682	1308	0	false
++	To Level 3	5683	1363	0	false
++	To Level 3	5605	1345	0	false
++	Secret Passage	5607	1279	0	false
++	To Level 2.5	5670	1226	0	false
++	To Boss Room	5677	1337	0	false
++	To Level 2	5698	1477	0	false
++	To Level 3	6026	1542	0	false
++	To Level 3	6069	1508	0	false
++	To Level 3	5943	1498	0	false
++	To Level 1	5875	1626	0	false
++	Secret Passage	5849	1618	0	false
++	Secret Passage	5936	1605	0	false
++	Secret Passage	5937	1637	0	false
++	To Boss Room	6010	1586	0	false
++	To Mini-Boss Room	5958	1705	0	false
++	To Level 2	5932	1772	0	false
++	To Boss Room	6109	1599	0	false
++	To Surface	5780	1731	0	false
++	To Level 2	5775	1712	0	false
++	To Level 3	5748	1658	0	false
++	To Surface	5895	2105	0	false
++	To Level 2	5884	1993	0	false
++	To Level 2	5904	2249	0	false
++	To Level 2	5789	2247	0	false
++	To Level 2	5823	2199	0	false
++	To Boss Room	5924	2418	0	false
++	To Boss Room	5939	2412	0	false
++	Secret Passage	5709	2404	0	false
++	Secret Passage	5701	2419	0	false
++	To Mini-Boss Room	5639	2270	0	false
++	To Level 1	5703	2602	0	false
++	To Boss Room	5423	2453	0	false
++	To Level 3	5438	2470	0	false
++	To Level 2	5488	2520	0	false
++	To Mini-Boss Room	5506	2528	0	false
++	To Boss Room	5348	2468	0	false
++	To Level 1	5275	2641	0	false
++	To Level 3	5307	2640	0	false
++	To Level 3	5336	2543	0	false
++	To Surface	5186	2486	0	false
++	To Level 2	5129	2654	0	false
++	To Level 3	5420	2713	0	false
++	To Level 1	5378	2757	0	false
++	To Level 3	5342	2767	0	false
++	To Level 2	5240	2877	0	false
++	To Level 2	5380	2893	0	false
++	To Level 2	5285	2774	0	false
++	To Surface	5253	2821	0	false
++	To Surface	5268	2826	0	false
++	To Surface	5186	2849	0	false
++	To Level 2	5516	2778	0	false
++	To Surface	5604	2762	0	false
++	To Level 1	5571	2866	0	false
++	To Level 3	5573	2878	0	false
++	To Level 3	5604	3039	0	false
++	To Boss Room	5759	2755	0	false
++	To Boss Room	5764	2759	0	false
++	To Level 2	5700	2801	0	false
++	To Mini-Boss Room	5820	2827	0	false
++	To Level 3	5686	3093	0	false
++	To Level 3	5692	3079	0	false
++	To Level 3	5513	2097	0	false
++	To Mini-Boss Room	5535	2096	0	false
++	To Level 3.5	5567	2070	0	false
++	To Level 3.5	5555	2110	0	false
++	To Level 3.5	5579	2110	0	false
++	Red Gate	5559	2142	0	false
++	To Level 2	5567	2153	0	false
++	To Boss Room	5594	1956	0	false
++	To Boss Room	5542	1956	0	false
++	To Level 3	5677	2012	0	false
++	To Level 3	5666	2053	0	false
++	To Level 3	5689	2053	0	false
++	To Level 3	5197	2191	0	false
++	To Level 3	5212	2190	0	false
++	To Level 1	5363	2094	0	false
++	Red Gate	5383	2086	0	false
++	To Level 1	5348	2075	0	false
++	Secret Passage	5404	2018	0	false
++	Secret Passage	5359	1975	0	false
++	Secret Passage	5400	1958	0	false
++	To Level 3	5425	1954	0	false
++	To Level 2	5250	1960	0	false
++	To Level 2	5252	1981	0	false
++	To Surface	5162	2022	0	false
++	To Surface	5611	1677	0	false
++	To Surface	5539	1669	0	false
++	To Surface	5611	1781	0	false
++	To Surface	5515	1767	0	false
++	To Surface	5467	1716	0	false
++	To Surface	5469	1815	0	false
++	To Surface	5601	1572	0	false
++	To Surface	5490	1606	0	false
++	To Surface	5487	1546	0	false
++	To Boss Room	5474	1265	0	false
++	To Boss Room	5452	1271	0	false
++	To Mini-Boss Room	5432	1270	0	false
++	To Level 2	5425	1349	0	false
++	To Level 2	5435	1364	0	false
++	To Level 3	5432	1246	0	false
++	To Level 3	5369	1259	0	false
++	To Level 3	5345	1231	0	false
++	To Level 1	5327	1415	0	false
++	To Level 2	5211	1250	0	false
++	To Surface	5159	1376	0	false
++	To Level 3	5153	1467	0	false
++	To Level 3	5161	1496	0	false
++	Secret Passage	5577	989	0	false
++	To Level 2	5587	1130	0	false
++	Secret Passage	5623	1133	0	false
++	To Level 2	5667	1122	0	false
++	Secret Passage	5655	1115	0	false

@@ -1,0 +1,3 @@
++	#4 Andarian Lumberyard Waypost	1984	762	0	false
++	#5 Gate Fortress Waypost	1803	937	0	false
++	#6 Farmland Garrison Waypost	1540	1252	0	false

@@ -1,0 +1,3 @@
++	#10 Lycaeum Bridge Waypost	1051	1574	0	false
++	#11 Collapsed Cave Waypost	1325	1588	0	false
++	#12 Prevalia Crossroads Waypost	1588	1750	0	false

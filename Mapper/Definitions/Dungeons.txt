@@ -1,0 +1,12 @@
++	Aegis Keep	2167	2074	0	false
++	Cavernam	2745	369	0	false
++	Darkmire Temple	3400	3726	0	false
++	Inferno	1998	3233	0	false
++	Mount Petram	733	769	0	false
++	New Player Dungeon	1913	2566	0	false
++	Nusero	287	1686	0	false
++	Ossuary	1212	2816	0	false
++	Pulma	1793	984	0	false
++	The Mausoleum	1456	2234	0	false
++	Urukton Bluffs	1912	1129	0	false
++	Shadowspire Cathedral	3412	715	0	false

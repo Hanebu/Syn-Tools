@@ -1,0 +1,32 @@
++	Andaria Gate Caravan	1990	925	0	false
++	Burnt Cove Caravan	1126	1962	0	false
++	Cambria Gate Caravan	1473	2854	0	false
++	Desert Quarry Caravan	1379	2854	0	false
++	Farmlands Caravan	1866	1206	0	false
++	Horseshoe Bay Swamps Caravan	2225	2250	0	false
++	Lizardmen Caravan	1406	2091	0	false
++	Midlands Caravan	1634	1996	0	false
++	New Buccaneers Den Caravan	2130	3231	0	false
++	Nomad Outpost Caravan	1158	2618	0	false
++	Northwest Caravan	1451	715	0	false
++	Nusero Island Caravan	307	1767	0	false
++	Ogre Valley Caravan	1717	2312	0	false
++	Prevalia Bog Caravan	1477	1754	0	false
++	Prevalia Gate Caravan	1201	2368	0	false
++	Prevalia Quarry Caravan	1176	992	0	false
++	Prevalia Signal Ridge Caravan	1495	1905	0	false
++	Ruined Lycaeum Caravan	1266	1624	0	false
++	Shelter Haven Caravan	1598	2576	0	false
++	Snow Northeast 1 Caravan	2884	436	0	false
++	Snow Northeast 2 Caravan	2468	369	0	false
++	Snow Northwest Caravan	1524	559	0	false
++	Western Ruins Caravan	709	1191	0	false
++	Wildside Caravan	1238	1322	0	false
++	Anchor's Rest North Caravan	3763	396	0	false
++	Anchor's Rest South Caravan	3728	690	0	false
++	Anchor's Rest West Caravan	3585	529	0	false
++	Shadowspire Cathedral Caravan	3496	835	0	false
++	Ice Prison Caravan	3941	259	0	false
++	Rickety Bridge Caravan	4181	821	0	false
++	Southern Ruins Caravan	3961	1178	0	false
++	Winter Harbor Caravan	4284	161	0	false

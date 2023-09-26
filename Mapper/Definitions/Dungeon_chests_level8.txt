@@ -1,0 +1,9 @@
++	Chest8	5712	323	0	false
++	Chest8	5204	2109	0	false
++	Chest8	5800	2163	0	false
++	Chest8	5742	3041	0	false
++	Chest8	6009	1454	0	false
++	Chest8	6043	1256	0	false
++	Chest8	5144	1424	0	false
++	Chest8	5223	832	0	false
++	Chest8	5852	905	0	false

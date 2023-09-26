@@ -1,0 +1,176 @@
++	Andaria Castle	2114	670	7	false
++	Andaria Cemetary	2092	529	7	false
++	Andaria Gate	1971	928	7	false
++	Andarian Scout Camp	241	1873	7	false
++	Andaria Rolling Hills	2473	609	7	false
++	Andaria Ruined Tower	2380	515	7	false
++	Andaria Ruins	2377	625	7	false
++	Andaria Ruins 2	1985	454	7	false
++	Andaria Sacrificial Ruins	1961	615	7	false
++	Beached Ship	1054	2670	7	false
++	Black Market Vendor	908	933	7	false
++	Blackthorns Fort	2489	1091	7	false
++	Bludchok Orc Fort	1092	1005	7	false
++	Bonfire	1980	1026	7	false
++	Brigand Camp 1	1466	1255	7	false
++	Brigand Camp 2	1586	2709	7	false
++	Brigand Camp 3	1413	1377	7	false
++	Brigand Headquarters	1777	2194	7	false
++	Burnt Cove	1085	1971	7	false
++	Burnt Farmlands	1090	1897	7	false
++	Cambria Castle	1712	2838	7	false
++	Cambrian Lighthouse	2081	3060	7	false
++	Cathedral and Inn	1461	2458	7	false
++	Cathedral St Francis	1152	2097	7	false
++	Cathedral St Francis Ruins	1240	2055	7	false
++	Chaos Hill	867	550	7	false
++	Citadel	2108	2051	7	false
++	Corpse Creek Lookout	790	586	7	false
++	Daemon Keep	1261	1744	7	false
++	Deadman Isle	1047	3274	7	false
++	Desert Daemon Altar	1307	2841	7	false
++	Deserted Island and Ship	3237	3363	7	false
++	Desert Manor	1205	2698	7	false
++	Desert Outpost	1496	2591	7	false
++	Desert Pyramid Ruins	1213	2954	7	false
++	Desert Quarry	1350	2803	7	false
++	Desert Ruins	1160	2503	7	false
++	Dragon Roost	1824	936	7	false
++	Drowned City	2227	2888	7	false
++	Druid Cabin	1894	2287	7	false
++	Druid Circle	2008	1970	7	false
++	Excavation Site	295	1820	7	false
++	Frost Daemon Temple	1409	470	7	false
++	Gate Fortress	1839	907	7	false
++	Grasslands	1077	2262	7	false
++	Haven Valley Lodge	1296	2519	7	false
++	Hidden Valley	1439	2918	7	false
++	Hollow Hills	1840	2077	7	false
++	Hollow Snow Tower	1331	634	7	false
++	Horseshoe Bay Cemetary	2109	2200	7	false
++	Humility Swamps	1401	2252	7	false
++	Hunters Blind 1	1262	961	7	false
++	Hunters Blind 2	1343	1921	7	false
++	Hunters Cabin	2163	2198	7	false
++	Island Dragon Roost	928	2819	7	false
++	Island Spring	736	3210	7	false
++	Jungle Baths	2760	3423	7	false
++	Lair of Eternal Darkness	2889	594	7	false
++	Lizardmen Fort	1362	2106	7	false
++	Lizardmen Scout Camp	2231	2619	7	false
++	Loggers Cabin	1141	2284	7	false
++	Logging Camp	1974	826	7	false
++	Midlands Ruins 1	1731	1885	7	false
++	Midlands Ruins 2	1334	1809	7	false
++	Morthuna	988	1728	7	false
++	Mountain Meetin Spot	1343	2039	7	false
++	Necromancers Cathedral	473	866	7	false
++	Necromancers Swamp	1909	771	7	false
++	Nomad Desert Camp	1114	2596	7	false
++	Nomad Training Area	1076	2668	7	false
++	Norse Settlement	2729	624	7	false
++	Noxious Earth	1833	2130	7	false
++	Nusero Signal Fort	669	1766	7	false
++	Oasis	1323	2978	7	false
++	Ogre Valley	1625	2284	7	false
++	Orc Fort 1	1355	1790	7	false
++	Orc Fort 2	1921	1194	7	false
++	Orc Fort 3	804	1768	7	false
++	Owens Cabin	2164	1153	7	false
++	Pool Of Power	984	1149	7	false
++	Prevalia Bog	1455	1696	7	false
++	Prevalia Castle	1759	1448	7	false
++	Prevalia Cemetary	1918	1763	7	false
++	Prevalia Dam	1232	1529	7	false
++	Prevalia Gate	1232	2370	7	false
++	Prevalia Keep	1367	1295	7	false
++	Prevalia Kings Manor	1573	1058	7	false
++	Prevalia Quarry	1183	1122	7	false
++	Prevalia Signal Outpost	1615	2470	7	false
++	Prevalia Waterfall	1788	1041	7	false
++	Prevalia Zoo	1820	1519	7	false
++	Riverrun Lodge	2800	557	7	false
++	Ruined Cabin	2289	1070	7	false
++	Ruined House	1938	1013	7	false
++	Ruined Lighthouse	2401	1001	7	false
++	Ruined Lycaeum	1278	1665	7	false
++	Ruined Snow Fortress	1706	616	7	false
++	Ruins and Underground Lair	1152	1844	7	false
++	Ruins on Island 1	685	919	7	false
++	Ruins on Island 2	600	904	7	false
++	Sacred Pools and Ruins	1390	1840	7	false
++	Sacred Waters	1258	2518	7	false
++	Sacrificial Cliffs	2026	1799	7	false
++	Sandbar	2022	990	7	false
++	Savage Fort	2358	3097	7	false
++	Savannah and Watering Hole	1289	2906	7	false
++	Ship in Bay	2330	3318	7	false
++	Ship in Cave	2304	1277	7	false
++	Shipwreck	2057	1804	7	false
++	Signal Fort 1	1478	2178	7	false
++	Signal Fort 2	1469	1987	7	false
++	Simple Palisade Fort	1144	742	7	false
++	Smigglers Den	1150	1006	7	false
++	Snow Caves	1637	613	7	false
++	Snow Fortress	1212	441	7	false
++	Swamp Point Ruins	992	2047	7	false
++	Tanners Northern Fort	2632	428	7	false
++	Telescope Island	1212	694	7	false
++	Terathan Point	2294	3468	7	false
++	Tribal Camp	3121	3442	7	false
++	Vine-Covered Cave	832	1056	7	false
++	Volcano 1	2065	3233	7	false
++	Volcano 2	841	3183	7	false
++	Western Ruins	617	1260	7	false
++	Western Ruins Brigands 1	1213	1252	7	false
++	Western Ruins Brigands 2	1186	1351	7	false
++	Western Ruins Brigands 3	1084	1337	7	false
++	Zebra Falls	992	1380	7	false
++	Daemon Keep	1261	1744	7	false
++	Bludchok Orc Fort	1092	1005	7	false
++	Abandoned Trading Post	3940	1146	7	false
++	Blood Cult Abbey	3716	1460	7	false
++	Botanical Disaster	4036	1615	7	false
++	Brigand Blind	3542	1013	7	false
++	Camp Betrayal	4101	690	7	false
++	Cedar Forest	3244	583	7	false
++	Cedar Lookout	4149	266	7	false
++	Chaos Viewpoint	3909	1360	7	false
++	Dammed Bog	4150	968	7	false
++	Haunted Manor	4005	1148	7	false
++	Fortune Teller	4309	476	7	false
++	Fresh Catch	4150	775	7	false
++	Frost Forest	3616	383	7	false
++	Frozen Excavation	3621	126	7	false
++	Frozen Nests	3742	78	7	false
++	Frozen Settlement	3610	311	7	false
++	Granite Docks	3402	919	7	false
++	Granite Quarry	3423	1008	7	false
++	Heartland Bog	3684	871	7	false
++	Ice Bridge	3380	128	7	false
++	Ice Prison	3936	213	7	false
++	Illuminated Spring	3946	744	7	false
++	Ivory Citadel	4120	93	7	false
++	Kudzu Tower	3543	1756	7	false
++	Leodcyning's Burial Mound	3719	422	7	false
++	Lightning Strike	3373	536	7	false
++	Lily Bridge	3907	347	7	false
++	Mellow Retreat	4333	1119	7	false
++	Mount Minotaur	3910	1551	7	false
++	Orc Rock	4018	1855	7	false
++	Outpost East Gate	3161	480	7	false
++	Picnic Blanket	4264	939	7	false
++	Pinecone Grove	3685	1225	7	false
++	Rickety Bridge	4187	783	7	false
++	Secret Beach	3606	673	7	false
++	Shanty Shack	3763	1716	7	false
++	Smoking Pyre	3226	228	7	false
++	Smugglers Dock	3171	307	7	false
++	Southreach Inn	4030	1364	7	false
++	Standing Stones	4134	1321	7	false
++	Unmarked Grave	3320	685	7	false
++	Vurte Tul Rru	3883	1032	7	false
++	Western Camps	3452	1444	7	false
++	Winter Harbor	4294	129	7	false
++	Winterspire	3534	143	7	false
++	Wintertop	3535	526	7	false

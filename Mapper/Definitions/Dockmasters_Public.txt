@@ -1,0 +1,18 @@
++	Andaria	2183	814	0	false
++	Andaria North	2312	454	0	false
++	Cambria	1937	3070	0	false
++	Cambria Lighthouse Ruins	1944	2866	0	false
++	Drowned Demon	1034	1159	0	false
++	Granite Docks	3388	919	0	false
++	Horseshoe Bay	2047	2208	0	false
++	Outpost	3115	531	0	false
++	Pirate Shipwreck	2107	1882	0	false
++	Riverrun	2816	566	0	false
++	Shelter Haven Caravan	1640	2562	0	false
++	Shelter Island	1962	2638	0	false
++	Smoking Pyre	3233	188	0	false
++	Southreach Inn	4059	1400	0	false
++	Sunken City	448	569	0	false
++	Terran	639	1531	0	false
++	Terran South East	894	1606	0	false
++	Winter Harbor	4309	108	0	false
