@@ -21,6 +21,7 @@ Definitions;FactionsCambPrev
 Definitions;FactionsFlag
 Definitions;FactionsPrevAnd
 Definitions;FactionsTerAnd
+Definitions;FactionsTerCamb
 Definitions;FactionsTerPrev
 Definitions;Gates_Red
 Definitions;Gates_Yellow
