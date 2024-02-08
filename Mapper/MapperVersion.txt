@@ -2,6 +2,7 @@ Mapper;Aga.Controls.dll
 Mapper;config.xml
 Mapper;Definitions
 Mapper;EnhancedMap.exe
+Mapper;EnhancedMap_without_Scout.exe
 Mapper;Icon
 Mapper;Maps
 Mapper;maps.xml
