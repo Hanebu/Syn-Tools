@@ -1,0 +1,5 @@
++	SYN 05 - Chios	714	825	0	false
++	SYN 06 - Chios Houseboat	3457	1157	0	false
++	SYN 17 - Penta	1851	560	0	false
++	SYN 26 - Wooded	2260	2385	0	false
++	SYN 46 - Based	1788	3185	0	false

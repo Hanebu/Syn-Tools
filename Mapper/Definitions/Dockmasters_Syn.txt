@@ -1,17 +1,13 @@
 +	00 - Guildhouse	781	469	0	false
 +	01 - Anakin	743	3084	0	false
 +	02 - Arrow	4097	1288	0	false
-+	05 - Chios	714	825	0	false
-+	06 - Chios Houseboat	3457	1157	0	false
 +	07 - Millz Windmill	3293	3538	0	false
 +	08 - Deadly	3188	152	0	false
 +	08 - Deadly	3188	6144	0	false
 +	10 - Degore	2817	594	0	false
 +	15 - Pantrax	2377	3115	0	false
 +	16 - Pantrax Owen	2190	1114	0	false
-+	17 - Penta	1851	560	0	false
 +	18 - PwnStarr	774	1696	0	false
-+	20 - Stalin	1267	470	0	false
 +	21 - Sushi	3625	1393	0	false
 +	22 - VonD Houseboat	3537	96	0	false
 +	22 - VonD Houseboat	3537	6144	0	false
@@ -21,7 +17,6 @@
 +	31 - Gheist	3640	1283	0	false
 +	33 - Graffix	3784	76	0	false
 +	33 - Graffix	3784	6144	0	false
-+	35 - Malex	4058	338	0	false
 +	37 - Tamaki	4219	1257	0	false
 +	42 - Unsept	1337	472	0	false
 +	43 - xDos	3960	47	0	false
@@ -29,5 +24,8 @@
 +	47 - Fukada Van	1546	3103	0	false
 +	48 - Wesnile Van	2683	3349	0	false
 +	49 - Ambien	900	3011	0	false
-+	50 - Chicretinho	4300	998	0	false
 +	51 - BrokenCovenant	1355	663	0	false
++	52 - Deadly2	3272	175	0	false
++	53 - LostMary	2338	3106	0	false
++	54 - GunnyB	1097	1152	0	false
++	55 - High	680	498	0	false
